@@ -1,2 +1,2 @@
 # DedicatedBot
-The Webhook For My Discord Server
+The Webhook For My Discord Server.
